@@ -1,0 +1,6 @@
+{
+  "name": "builder_hub_replit_app",
+  "auto_deploy": false,
+  "safety_checks": true,
+  "pause_enabled": true
+}
